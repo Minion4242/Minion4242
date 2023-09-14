@@ -1,4 +1,7 @@
-### Hi there 👋
+#**Welcome to my profile!**
+
+##Introduction
+My name is Tim and im currently an IT apprentice. I like programming and want to explore the Cyber-Worls as much as possible.
 
 <!--
 **Minion4242/Minion4242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
