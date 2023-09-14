@@ -1,6 +1,6 @@
-#**Welcome to my profile!**
+# **Welcome to my profile!**
 
-##Introduction
+## Introduction
 My name is Tim and im currently an IT apprentice. I like programming and want to explore the Cyber-Worls as much as possible.
 
 <!--
